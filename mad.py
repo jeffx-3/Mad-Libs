@@ -1,0 +1,6 @@
+color=input("Enter a color: ")
+plural=input("Enter a plural noun: ")
+planet=input("Enter a planet: ")
+print("Roses are "+color)
+print(plural+" are blue")
+print("I love "+planet)
